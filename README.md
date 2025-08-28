@@ -11,18 +11,6 @@ A Convolutional Neural Network (CNN)-based image classification project built us
 - Model training and evaluation using accuracy and loss metrics  
 - Visualization of predictions with matplotlib  
 
----
-
-## 📂 Project Structure  
-```
-Deep-CNN-Image-Classifier/
-│── data/                  # Dataset (not included in repo, load separately)
-│── notebooks/             # Jupyter notebooks for experiments
-│── models/                # Saved model weights
-│── requirements.txt       # Python dependencies
-│── README.md              # Project documentation
-│── main.ipynb             # Training & evaluation notebook
-```
 
 ---
 
